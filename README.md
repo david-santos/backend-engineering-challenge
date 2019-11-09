@@ -30,6 +30,3 @@ Automatic tests run when the application is built, but they can also run on dema
 + There's an optional parameter to explicitly set the output file
 + The application is prepared to consume an input file with events that are NOT ordered in time (in other words, ordered by the timestamp attribute)
 + `pt.dcs.unbabel.bec.BecApplication` is the main class and where it all begins
-
-## Extras
-
